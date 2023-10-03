@@ -1,0 +1,29 @@
+Boxing is a really popular sport throughout the whole world. Based on a few popular fighters, my chatbot will judge the user by looking at their favourite fighters.
+I've implemented my own research when choosing fighters based on if they're more of a power fighter or if they use speed. I have provided an example transcript.
+ 
+
+
+
+You> Hello
+
+Chatty> Hey do you like boxing? Yes or No
+
+You> no
+
+Chatty> Everyone likes fighting, it's our natrual instinct, Mike
+ Tyson or Muhammad Ali? If you don't know any of these fighters 
+google them and tell me who you think seems better
+
+You> ali
+
+Chatty> Just what I expected, so Floyd Mayweather or Manny Pacquiao
+
+
+You> floyd
+
+Chatty> You have an interesting taste in fighters, Goodbye, say 
+bye back
+
+You> bye
+exit status 3
+ 
